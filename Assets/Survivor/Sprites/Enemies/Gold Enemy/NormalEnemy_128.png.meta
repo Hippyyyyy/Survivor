@@ -1,0 +1,2431 @@
+fileFormatVersion: 2
+guid: d05377dcadc5fb04e8a98e47e1962e90
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5313346906828286810
+    second: NormalEnemy_128_0
+  - first:
+      213: 7448058078677139855
+    second: NormalEnemy_128_1
+  - first:
+      213: -7768733319510322441
+    second: NormalEnemy_128_2
+  - first:
+      213: 2408774452211469812
+    second: NormalEnemy_128_3
+  - first:
+      213: -5730592958769088314
+    second: NormalEnemy_128_4
+  - first:
+      213: 7310172981332192813
+    second: NormalEnemy_128_5
+  - first:
+      213: -1419309585997713431
+    second: NormalEnemy_128_6
+  - first:
+      213: 5284153370881856652
+    second: NormalEnemy_128_7
+  - first:
+      213: -1375262454955813753
+    second: NormalEnemy_128_8
+  - first:
+      213: 7282116785883344264
+    second: NormalEnemy_128_9
+  - first:
+      213: 4897583537589523004
+    second: NormalEnemy_128_10
+  - first:
+      213: -7217019833145317514
+    second: NormalEnemy_128_11
+  - first:
+      213: -1019228122979123566
+    second: NormalEnemy_128_12
+  - first:
+      213: -6067317978932209916
+    second: NormalEnemy_128_13
+  - first:
+      213: 9025135462568814503
+    second: NormalEnemy_128_14
+  - first:
+      213: 1040235119175803080
+    second: NormalEnemy_128_15
+  - first:
+      213: 2594262378344054653
+    second: NormalEnemy_128_16
+  - first:
+      213: -7909690473227943124
+    second: NormalEnemy_128_17
+  - first:
+      213: 949947145529977075
+    second: NormalEnemy_128_18
+  - first:
+      213: -5074778462978657791
+    second: NormalEnemy_128_19
+  - first:
+      213: -5049494742995509185
+    second: NormalEnemy_128_20
+  - first:
+      213: -65031317217368514
+    second: NormalEnemy_128_21
+  - first:
+      213: -4258781903230147462
+    second: NormalEnemy_128_22
+  - first:
+      213: 9082227796558433969
+    second: NormalEnemy_128_23
+  - first:
+      213: 1939150369199763055
+    second: NormalEnemy_128_24
+  - first:
+      213: -7248272890195245153
+    second: NormalEnemy_128_25
+  - first:
+      213: 7906076217024637789
+    second: NormalEnemy_128_26
+  - first:
+      213: -5483702717422719584
+    second: NormalEnemy_128_27
+  - first:
+      213: 278591180298615921
+    second: NormalEnemy_128_28
+  - first:
+      213: 6257315170878705657
+    second: NormalEnemy_128_29
+  - first:
+      213: 7838816463073625573
+    second: NormalEnemy_128_30
+  - first:
+      213: 66898534855885402
+    second: NormalEnemy_128_31
+  - first:
+      213: 7786564514312885376
+    second: NormalEnemy_128_32
+  - first:
+      213: 6316016298424462385
+    second: NormalEnemy_128_33
+  - first:
+      213: -9118195334440850523
+    second: NormalEnemy_128_34
+  - first:
+      213: -8143745341047899439
+    second: NormalEnemy_128_35
+  - first:
+      213: -1546628788690335373
+    second: NormalEnemy_128_36
+  - first:
+      213: -7781607127215354786
+    second: NormalEnemy_128_37
+  - first:
+      213: 280801628395959051
+    second: NormalEnemy_128_38
+  - first:
+      213: -4885179727074721621
+    second: NormalEnemy_128_39
+  - first:
+      213: 3366369894137315059
+    second: NormalEnemy_128_40
+  - first:
+      213: -5175910424357227734
+    second: NormalEnemy_128_41
+  - first:
+      213: -7885832946578681494
+    second: NormalEnemy_128_42
+  - first:
+      213: -6686249729242330808
+    second: NormalEnemy_128_43
+  - first:
+      213: -7200941977233982905
+    second: NormalEnemy_128_44
+  - first:
+      213: -8899051369590965676
+    second: NormalEnemy_128_45
+  - first:
+      213: -7096074258215823544
+    second: NormalEnemy_128_46
+  - first:
+      213: 4599469890261339919
+    second: NormalEnemy_128_47
+  - first:
+      213: -4082490427369079314
+    second: NormalEnemy_128_48
+  - first:
+      213: 3762795240458835951
+    second: NormalEnemy_128_49
+  - first:
+      213: 8353124703505372325
+    second: NormalEnemy_128_50
+  - first:
+      213: -8738399419176274620
+    second: NormalEnemy_128_51
+  - first:
+      213: 7851095811479019951
+    second: NormalEnemy_128_52
+  - first:
+      213: -8122558031302073484
+    second: NormalEnemy_128_53
+  - first:
+      213: -857995817185637413
+    second: NormalEnemy_128_54
+  - first:
+      213: -4630760186040278622
+    second: NormalEnemy_128_55
+  - first:
+      213: 7373797613273151351
+    second: NormalEnemy_128_56
+  - first:
+      213: 6513304812105709543
+    second: NormalEnemy_128_57
+  - first:
+      213: 6442813652289324586
+    second: NormalEnemy_128_58
+  - first:
+      213: 2451227939517324425
+    second: NormalEnemy_128_59
+  - first:
+      213: -5159991595401117112
+    second: NormalEnemy_128_60
+  - first:
+      213: -6146610277643191923
+    second: NormalEnemy_128_61
+  - first:
+      213: 7927583845607619006
+    second: NormalEnemy_128_62
+  - first:
+      213: -5074278410133673868
+    second: NormalEnemy_128_63
+  - first:
+      213: -4445317293825468261
+    second: NormalEnemy_128_64
+  - first:
+      213: -4152733151406575872
+    second: NormalEnemy_128_65
+  - first:
+      213: 3962236943246745017
+    second: NormalEnemy_128_66
+  - first:
+      213: 591278613232887105
+    second: NormalEnemy_128_67
+  - first:
+      213: -5274587144149795447
+    second: NormalEnemy_128_68
+  - first:
+      213: 1204426707263003444
+    second: NormalEnemy_128_69
+  - first:
+      213: 7998925675093419012
+    second: NormalEnemy_128_70
+  - first:
+      213: -5594498492162145046
+    second: NormalEnemy_128_71
+  - first:
+      213: -2235074394442189326
+    second: NormalEnemy_128_72
+  - first:
+      213: -5694081139307989832
+    second: NormalEnemy_128_73
+  - first:
+      213: -1917140729533620665
+    second: NormalEnemy_128_74
+  - first:
+      213: -2534366074273773696
+    second: NormalEnemy_128_75
+  - first:
+      213: -8014901866451840866
+    second: NormalEnemy_128_76
+  - first:
+      213: 6375007630322753583
+    second: NormalEnemy_128_77
+  - first:
+      213: 7716525518272294762
+    second: NormalEnemy_128_78
+  - first:
+      213: -1046211398070401162
+    second: NormalEnemy_128_79
+  - first:
+      213: -237304767783659089
+    second: NormalEnemy_128_80
+  - first:
+      213: 6194521373526174533
+    second: NormalEnemy_128_81
+  - first:
+      213: -7097258963567139710
+    second: NormalEnemy_128_82
+  - first:
+      213: -5279963500654767156
+    second: NormalEnemy_128_83
+  - first:
+      213: 5337218356263426685
+    second: NormalEnemy_128_84
+  - first:
+      213: 4957763812223816953
+    second: NormalEnemy_128_85
+  - first:
+      213: -3762612614011486923
+    second: NormalEnemy_128_86
+  - first:
+      213: -3645146193298839170
+    second: NormalEnemy_128_87
+  - first:
+      213: 2676463491077881311
+    second: NormalEnemy_128_88
+  - first:
+      213: 6381156302688454595
+    second: NormalEnemy_128_89
+  - first:
+      213: -7049838470982753367
+    second: NormalEnemy_128_90
+  - first:
+      213: 3156474868136350230
+    second: NormalEnemy_128_91
+  - first:
+      213: -6514600355966091010
+    second: NormalEnemy_128_92
+  - first:
+      213: 8724424669715101931
+    second: NormalEnemy_128_93
+  - first:
+      213: -937521922080279059
+    second: NormalEnemy_128_94
+  - first:
+      213: -2037615356811005454
+    second: NormalEnemy_128_95
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NormalEnemy_128_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 389
+        width: 112
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a4541ab3233346b0800000000000000
+      internalID: -5313346906828286810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_128_1
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 389
+        width: 114
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f81870e6c51dc5760800000000000000
+      internalID: 7448058078677139855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_128_2
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 389
+        width: 118
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f298d7d43aef2490800000000000000
+      internalID: -7768733319510322441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_128_3
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 389
+        width: 115
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fdc9102a9fad6120800000000000000
+      internalID: 2408774452211469812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_128_4
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 393
+        width: 108
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c8b634e018d870b0800000000000000
+      internalID: -5730592958769088314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_128_5
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 392
+        width: 112
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2ea6f67893f27560800000000000000
+      internalID: 7310172981332192813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_128_6
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 422
+        width: 66
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9efac4c83799d4ce0800000000000000
+      internalID: -1419309585997713431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_128_7
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 417
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8498128e75155940800000000000000
+      internalID: 5284153370881856652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_128_8
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 429
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7845d6b65161aece0800000000000000
+      internalID: -1375262454955813753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_128_9
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 451
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88d6c7b62a64f0560800000000000000
+      internalID: 7282116785883344264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_128_10
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 452
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3213d76746b7f340800000000000000
+      internalID: 4897583537589523004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_128_11
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 455
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 677ac6cf2bef7db90800000000000000
+      internalID: -7217019833145317514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_128_12
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 394
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29ebdb81c69fad1f0800000000000000
+      internalID: -1019228122979123566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_128_13
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 390
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4079766b17e8ccba0800000000000000
+      internalID: -6067317978932209916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_128_14
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 396
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a7e130d2e8bf3d70800000000000000
+      internalID: 9025135462568814503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_128_15
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 391
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c02c595458af6e00800000000000000
+      internalID: 1040235119175803080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_128_16
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 425
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7f7b5b53eba00420800000000000000
+      internalID: 2594262378344054653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_128_17
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 333
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305f30c622b3290800000000000000
+      internalID: -7909690473227943124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_128_18
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 337
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f8e5b455e3ee2d00800000000000000
+      internalID: 949947145529977075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_128_19
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 334
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 102ba5010e3c299b0800000000000000
+      internalID: -5074778462978657791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_128_20
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 339
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f30ec8cd8479ce9b0800000000000000
+      internalID: -5049494742995509185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_128_21
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 344
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e36abfd8c56f81ff0800000000000000
+      internalID: -65031317217368514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_128_22
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 337
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a74ea1a4c64c5e4c0800000000000000
+      internalID: -4258781903230147462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_128_23
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 274
+        width: 126
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be4b0faf0e8a0e70800000000000000
+      internalID: 9082227796558433969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_128_24
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 276
+        width: 115
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6e283a9cfe39ea10800000000000000
+      internalID: 1939150369199763055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_128_25
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 282
+        width: 126
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9781d89536f86b90800000000000000
+      internalID: -7248272890195245153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_128_26
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 278
+        width: 115
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5beae26e6608bd60800000000000000
+      internalID: 7906076217024637789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_128_27
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 273
+        width: 128
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0adac22be69f5e3b0800000000000000
+      internalID: -5483702717422719584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_128_28
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 273
+        width: 121
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17c7143d331cdd300800000000000000
+      internalID: 278591180298615921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_128_29
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 306
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff43e7cef276d650800000000000000
+      internalID: 6257315170878705657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_128_30
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 304
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e5ccf49a0219cc60800000000000000
+      internalID: 7838816463073625573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_128_31
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 310
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a52441eecdbade000800000000000000
+      internalID: 66898534855885402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_128_32
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 307
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0841848bb2f6f0c60800000000000000
+      internalID: 7786564514312885376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_128_33
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 270
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13cea271c5ff6a750800000000000000
+      internalID: 6316016298424462385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_128_34
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 265
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab670257a9a57180800000000000000
+      internalID: -9118195334440850523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_128_35
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 272
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1daf89d72ca9bfe80800000000000000
+      internalID: -8143745341047899439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_128_36
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 267
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37948b2af45498ae0800000000000000
+      internalID: -1546628788690335373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_128_37
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 256
+        width: 71
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5c4ea8eb8d220490800000000000000
+      internalID: -7781607127215354786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_128_38
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 256
+        width: 71
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0374e0e79b95e300800000000000000
+      internalID: 280801628395959051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_128_39
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 256
+        width: 71
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba085c7cbea543cb0800000000000000
+      internalID: -4885179727074721621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_128_40
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 256
+        width: 71
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3febf9a359fb7be20800000000000000
+      internalID: 3366369894137315059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_128_41
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 191
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2332f664e87b28b0800000000000000
+      internalID: -5175910424357227734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_128_42
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 196
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a611b1d47b4ef8290800000000000000
+      internalID: -7885832946578681494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_128_43
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 173
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84985f8eb4ba533a0800000000000000
+      internalID: -6686249729242330808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_128_44
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 193
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74af4c68c6d111c90800000000000000
+      internalID: -7200941977233982905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_128_45
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 199
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45ab395bde7308480800000000000000
+      internalID: -8899051369590965676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_128_46
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 179
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 847904b0f0ea58d90800000000000000
+      internalID: -7096074258215823544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_128_47
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 199
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0fc1240f7994df30800000000000000
+      internalID: 4599469890261339919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_128_48
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 201
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eedbbb516941857c0800000000000000
+      internalID: -4082490427369079314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_128_49
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 192
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe75416c552283430800000000000000
+      internalID: 3762795240458835951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_128_50
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 203
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a45afc39a24ce370800000000000000
+      internalID: 8353124703505372325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_128_51
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 202
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 445b48ab608fab680800000000000000
+      internalID: -8738399419176274620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_128_52
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 203
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa1a3cc2b02b4fc60800000000000000
+      internalID: 7851095811479019951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_128_53
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 194
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4736eb47180e64f80800000000000000
+      internalID: -8122558031302073484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_128_54
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 143
+        width: 92
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdb01e1a959c714f0800000000000000
+      internalID: -857995817185637413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_128_55
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 142
+        width: 92
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a12c07452c3cbfb0800000000000000
+      internalID: -4630760186040278622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_128_56
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 142
+        width: 92
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 777f4c87cddf45660800000000000000
+      internalID: 7373797613273151351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_128_57
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 142
+        width: 93
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e73767b738e36a50800000000000000
+      internalID: 6513304812105709543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_128_58
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 170
+        width: 50
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a260eba91e8796950800000000000000
+      internalID: 6442813652289324586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_128_59
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 167
+        width: 43
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c5176e2d2840220800000000000000
+      internalID: 2451227939517324425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_128_60
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 174
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8428d189bf60468b0800000000000000
+      internalID: -5159991595401117112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_128_61
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 159
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d89ff44c48ad2baa0800000000000000
+      internalID: -6146610277643191923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_128_62
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 161
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb93194618f640e60800000000000000
+      internalID: 7927583845607619006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_128_63
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 184
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4786c80bbaa8499b0800000000000000
+      internalID: -5074278410133673868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_128_64
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 173
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b98d1ab397f0f42c0800000000000000
+      internalID: -4445317293825468261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_128_65
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 176
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f2c6f63378e56c0800000000000000
+      internalID: -4152733151406575872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_128_66
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 144
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bdd62ec181bcf630800000000000000
+      internalID: 3962236943246745017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_128_67
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 145
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 145280914c4a43800800000000000000
+      internalID: 591278613232887105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_128_68
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 144
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98dfb1830f6ecc6b0800000000000000
+      internalID: -5274587144149795447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_128_69
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 146
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b976c75bbf6b010800000000000000
+      internalID: 1204426707263003444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_128_70
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 83
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 404e1b87584e10f60800000000000000
+      internalID: 7998925675093419012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_128_71
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 98
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4873623495c52b0800000000000000
+      internalID: -5594498492162145046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_128_72
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 106
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f5b3b02eab6bf0e0800000000000000
+      internalID: -2235074394442189326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_128_73
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 25
+        width: 50
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b4bb415f5f8af0b0800000000000000
+      internalID: -5694081139307989832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_128_74
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 37
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74e17b7f9a2f465e0800000000000000
+      internalID: -1917140729533620665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_128_75
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 67
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0874c1cab7f14dcd0800000000000000
+      internalID: -2534366074273773696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_128_76
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 67
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e90d58c973955c090800000000000000
+      internalID: -8014901866451840866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_128_77
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 80
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f20eacdd9a3987850800000000000000
+      internalID: 6375007630322753583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_128_78
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 73
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f6bd0331b961b60800000000000000
+      internalID: 7716525518272294762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_128_79
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 71
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6778c0ac64c1b71f0800000000000000
+      internalID: -1046211398070401162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_128_80
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 87
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa99fbc229ce4bcf0800000000000000
+      internalID: -237304767783659089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_128_81
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 18
+        width: 89
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54ba7968e5c57f550800000000000000
+      internalID: 6194521373526174533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_128_82
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 19
+        width: 93
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 284af955398718d90800000000000000
+      internalID: -7097258963567139710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_128_83
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 57
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc3d17cab2dc9b6b0800000000000000
+      internalID: -5279963500654767156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_128_84
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 51
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a96c531db911a40800000000000000
+      internalID: 5337218356263426685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_128_85
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 43
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f413eb7be38dc440800000000000000
+      internalID: 4957763812223816953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_128_86
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 64
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53df07243c388cbc0800000000000000
+      internalID: -3762612614011486923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_128_87
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 49
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e792e0a99d6d96dc0800000000000000
+      internalID: -3645146193298839170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_128_88
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 53
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fddbff75d55b42520800000000000000
+      internalID: 2676463491077881311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_128_89
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 22
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c78df539db6e8850800000000000000
+      internalID: 6381156302688454595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_128_90
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 31
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a3a0352341f92e90800000000000000
+      internalID: -7049838470982753367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_128_91
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 24
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61217b93b2d0ecb20800000000000000
+      internalID: 3156474868136350230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_128_92
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 36
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef00209fd7d7795a0800000000000000
+      internalID: -6514600355966091010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_128_93
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 26
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be8f50c5302631970800000000000000
+      internalID: 8724424669715101931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_128_94
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 39
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de5734177c04df2f0800000000000000
+      internalID: -937521922080279059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_128_95
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 28
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f13664f0afe8b3e0800000000000000
+      internalID: -2037615356811005454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

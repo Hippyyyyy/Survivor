@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1312347609331520
+GameObject:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Component:
+  - component: {fileID: 4640284365197931}
+  - component: {fileID: 114094340110601836}
+  m_Layer: 0
+  m_Name: RocketManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4640284365197931
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1312347609331520}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: -0, z: -0}
+--- !u!114 &114094340110601836
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1312347609331520}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f7b7c42f9b425af3e517c98e4ce7ecb, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  serializationData:
+    SerializedFormat: 0
+    SerializedBytes: 01010f0000005000610073007300690076006500540079007000650044006900630074002f00000000016c000000530079007300740065006d002e0043006f006c006c0065006300740069006f006e0073002e00470065006e0065007200690063002e00440069006300740069006f006e00610072007900600032005b005b00500061007300730069007600650054007900700065002c00200041007300730065006d0062006c0079002d004300530068006100720070005d002c005b00530079007300740065006d002e0042006f006f006c00650061006e002c0020006d00730063006f0072006c00690062005d005d002c0020006d00730063006f0072006c00690062000000000001010800000063006f006d00700061007200650072002f01000000015b000000530079007300740065006d002e0043006f006c006c0065006300740069006f006e0073002e00470065006e0065007200690063002e0045006e0075006d0045007100750061006c0069007400790043006f006d0070006100720065007200600031005b005b00500061007300730069007600650054007900700065002c00200041007300730065006d0062006c0079002d004300530068006100720070005d005d002c0020006d00730063006f0072006c0069006200010000000600000000000000000705060400000000000000042e1d010200000024006b0001000000000000002b0102000000240076000005042e1d010200000024006b0003000000000000002b0102000000240076000005042e1d010200000024006b0005000000000000002b0102000000240076000005042e1d010200000024006b0002000000000000002b01020000002400760000050705
+    ReferencedUnityObjects: []
+    SerializedBytesString:
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  SkillType: 2
+  BaseSkillSize: 0.32
+  BaseDisplayScale: {x: 1, y: 1, z: 1}
+  KnockbackMultiplier: 0
+  KnockbackMultiplier_Evo: 0
+  CanDealBleedDmg: 0
+  CanDestroyBullet: 0
+  CanDestroyToxicDead: 0
+  DamageTriggerCooldown: 60
+  ExplosionSound_Normal: {fileID: 8300000, guid: fdecda075fdbcd440a24450ff500cc34, type: 3}
+  ExplosionSound_Evo: {fileID: 8300000, guid: 9308267f0c26cd645904ef074442e660, type: 3}
+  LaunchSound: {fileID: 8300000, guid: 7516632927c29e546b140287c23c11e8, type: 3}
+  RocketCountArray: 010000000100000002000000020000000300000002000000
+  RocketPrefab: {fileID: 114483601455989954, guid: 025facca6b3d94a4fbf419a8efaa0686, type: 2}
+  SharkmawPrefab: {fileID: 114770966360428416, guid: 59105a552dde32d40aced9d975a105e1, type: 2}

@@ -1,0 +1,4351 @@
+fileFormatVersion: 2
+guid: 26d64a9821808164196f3b560573b8c5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -452589088489763680
+    second: NormalEnemy_Toilet_64_0
+  - first:
+      213: -2210561900966229674
+    second: NormalEnemy_Toilet_64_1
+  - first:
+      213: 961797359651341247
+    second: NormalEnemy_Toilet_64_2
+  - first:
+      213: -1325876199122983327
+    second: NormalEnemy_Toilet_64_3
+  - first:
+      213: -4657547606548233914
+    second: NormalEnemy_Toilet_64_4
+  - first:
+      213: 3995953598407628424
+    second: NormalEnemy_Toilet_64_5
+  - first:
+      213: 5004686609826563745
+    second: NormalEnemy_Toilet_64_6
+  - first:
+      213: -1838789614068623902
+    second: NormalEnemy_Toilet_64_7
+  - first:
+      213: 1283900279699283071
+    second: NormalEnemy_Toilet_64_8
+  - first:
+      213: -5447080189139162161
+    second: NormalEnemy_Toilet_64_9
+  - first:
+      213: -2264128337874152196
+    second: NormalEnemy_Toilet_64_10
+  - first:
+      213: -8910102460972695416
+    second: NormalEnemy_Toilet_64_11
+  - first:
+      213: 2640714655446970351
+    second: NormalEnemy_Toilet_64_12
+  - first:
+      213: -2722051867312065126
+    second: NormalEnemy_Toilet_64_13
+  - first:
+      213: 9050036553889025362
+    second: NormalEnemy_Toilet_64_14
+  - first:
+      213: -1855102813362879592
+    second: NormalEnemy_Toilet_64_15
+  - first:
+      213: -9040418195035062433
+    second: NormalEnemy_Toilet_64_16
+  - first:
+      213: -4742938557312748058
+    second: NormalEnemy_Toilet_64_17
+  - first:
+      213: 4601000651076343603
+    second: NormalEnemy_Toilet_64_18
+  - first:
+      213: 1571769777438869595
+    second: NormalEnemy_Toilet_64_19
+  - first:
+      213: 1949076653116544206
+    second: NormalEnemy_Toilet_64_20
+  - first:
+      213: 4184705305375244777
+    second: NormalEnemy_Toilet_64_21
+  - first:
+      213: 643143914884801308
+    second: NormalEnemy_Toilet_64_22
+  - first:
+      213: -243665089229078246
+    second: NormalEnemy_Toilet_64_23
+  - first:
+      213: 7530535164978874570
+    second: NormalEnemy_Toilet_64_24
+  - first:
+      213: -5874135970299749505
+    second: NormalEnemy_Toilet_64_25
+  - first:
+      213: -380273607470769728
+    second: NormalEnemy_Toilet_64_26
+  - first:
+      213: 4469765944977611998
+    second: NormalEnemy_Toilet_64_27
+  - first:
+      213: 3241342343835709785
+    second: NormalEnemy_Toilet_64_28
+  - first:
+      213: -4592437989760045520
+    second: NormalEnemy_Toilet_64_29
+  - first:
+      213: -7610738544633205130
+    second: NormalEnemy_Toilet_64_30
+  - first:
+      213: 8562180032065393761
+    second: NormalEnemy_Toilet_64_31
+  - first:
+      213: -5525044437299508211
+    second: NormalEnemy_Toilet_64_32
+  - first:
+      213: 4465693082779531326
+    second: NormalEnemy_Toilet_64_33
+  - first:
+      213: -337206865476892018
+    second: NormalEnemy_Toilet_64_34
+  - first:
+      213: -9011479090766579492
+    second: NormalEnemy_Toilet_64_35
+  - first:
+      213: 4400060611926218371
+    second: NormalEnemy_Toilet_64_36
+  - first:
+      213: 278494658862537763
+    second: NormalEnemy_Toilet_64_37
+  - first:
+      213: 7962637349888324473
+    second: NormalEnemy_Toilet_64_38
+  - first:
+      213: -1598645643789534248
+    second: NormalEnemy_Toilet_64_39
+  - first:
+      213: 2908307202826825539
+    second: NormalEnemy_Toilet_64_40
+  - first:
+      213: 7217102026173735917
+    second: NormalEnemy_Toilet_64_41
+  - first:
+      213: 6039498689579533907
+    second: NormalEnemy_Toilet_64_42
+  - first:
+      213: -4782518133108344746
+    second: NormalEnemy_Toilet_64_43
+  - first:
+      213: 4546340628021764036
+    second: NormalEnemy_Toilet_64_44
+  - first:
+      213: -1875331969870857666
+    second: NormalEnemy_Toilet_64_45
+  - first:
+      213: -103835267858386541
+    second: NormalEnemy_Toilet_64_46
+  - first:
+      213: -7347678420558627858
+    second: NormalEnemy_Toilet_64_47
+  - first:
+      213: -7690315362491970972
+    second: NormalEnemy_Toilet_64_48
+  - first:
+      213: -3099972516996969002
+    second: NormalEnemy_Toilet_64_49
+  - first:
+      213: -9128975772908769423
+    second: NormalEnemy_Toilet_64_50
+  - first:
+      213: -6811753015813922398
+    second: NormalEnemy_Toilet_64_51
+  - first:
+      213: -6742139649773871213
+    second: NormalEnemy_Toilet_64_52
+  - first:
+      213: 8592536257116042692
+    second: NormalEnemy_Toilet_64_53
+  - first:
+      213: -7694893967596979077
+    second: NormalEnemy_Toilet_64_54
+  - first:
+      213: 10662417099172272
+    second: NormalEnemy_Toilet_64_55
+  - first:
+      213: -4895202393472252009
+    second: NormalEnemy_Toilet_64_56
+  - first:
+      213: 1046210754026924464
+    second: NormalEnemy_Toilet_64_57
+  - first:
+      213: -7072957452239991888
+    second: NormalEnemy_Toilet_64_58
+  - first:
+      213: 1844733027815118207
+    second: NormalEnemy_Toilet_64_59
+  - first:
+      213: -5120953371774612908
+    second: NormalEnemy_Toilet_64_60
+  - first:
+      213: -1219724962752659893
+    second: NormalEnemy_Toilet_64_61
+  - first:
+      213: -8804553602414694711
+    second: NormalEnemy_Toilet_64_62
+  - first:
+      213: 4181131876566077550
+    second: NormalEnemy_Toilet_64_63
+  - first:
+      213: -1709683982109307997
+    second: NormalEnemy_Toilet_64_64
+  - first:
+      213: 6570513292650534689
+    second: NormalEnemy_Toilet_64_65
+  - first:
+      213: -4019000870911162044
+    second: NormalEnemy_Toilet_64_66
+  - first:
+      213: -2149148510515747231
+    second: NormalEnemy_Toilet_64_67
+  - first:
+      213: 6811460754847278811
+    second: NormalEnemy_Toilet_64_68
+  - first:
+      213: -5997867205903714353
+    second: NormalEnemy_Toilet_64_69
+  - first:
+      213: -550743499775109143
+    second: NormalEnemy_Toilet_64_70
+  - first:
+      213: 8987772313240682351
+    second: NormalEnemy_Toilet_64_71
+  - first:
+      213: -6720472352510272128
+    second: NormalEnemy_Toilet_64_72
+  - first:
+      213: 2733356054648731060
+    second: NormalEnemy_Toilet_64_73
+  - first:
+      213: -8550853065738726160
+    second: NormalEnemy_Toilet_64_74
+  - first:
+      213: 6221457386689268554
+    second: NormalEnemy_Toilet_64_75
+  - first:
+      213: 5262117603906798198
+    second: NormalEnemy_Toilet_64_76
+  - first:
+      213: -8957207916779028890
+    second: NormalEnemy_Toilet_64_77
+  - first:
+      213: 2971894687891028938
+    second: NormalEnemy_Toilet_64_78
+  - first:
+      213: 4773128068874998562
+    second: NormalEnemy_Toilet_64_79
+  - first:
+      213: 1274900240439864595
+    second: NormalEnemy_Toilet_64_80
+  - first:
+      213: -7236417536475162696
+    second: NormalEnemy_Toilet_64_81
+  - first:
+      213: -2152573277105153392
+    second: NormalEnemy_Toilet_64_82
+  - first:
+      213: -249661690184019491
+    second: NormalEnemy_Toilet_64_83
+  - first:
+      213: -5623993210537160515
+    second: NormalEnemy_Toilet_64_84
+  - first:
+      213: -1003632673778408604
+    second: NormalEnemy_Toilet_64_85
+  - first:
+      213: -4649782313064403988
+    second: NormalEnemy_Toilet_64_86
+  - first:
+      213: 1598350184992661439
+    second: NormalEnemy_Toilet_64_87
+  - first:
+      213: 1377801923032129922
+    second: NormalEnemy_Toilet_64_88
+  - first:
+      213: 1534295105697592718
+    second: NormalEnemy_Toilet_64_89
+  - first:
+      213: 8486882902039676559
+    second: NormalEnemy_Toilet_64_90
+  - first:
+      213: 2228830863155932362
+    second: NormalEnemy_Toilet_64_91
+  - first:
+      213: -428594235035633637
+    second: NormalEnemy_Toilet_64_92
+  - first:
+      213: 2247623981133050344
+    second: NormalEnemy_Toilet_64_93
+  - first:
+      213: 4034492352886230256
+    second: NormalEnemy_Toilet_64_94
+  - first:
+      213: -3461661097600172917
+    second: NormalEnemy_Toilet_64_95
+  - first:
+      213: -7023198190943660895
+    second: NormalEnemy_Toilet_64_96
+  - first:
+      213: -1415205921258763374
+    second: NormalEnemy_Toilet_64_97
+  - first:
+      213: 5290103988922695210
+    second: NormalEnemy_Toilet_64_98
+  - first:
+      213: -8914035490134465383
+    second: NormalEnemy_Toilet_64_99
+  - first:
+      213: 7852078087352294483
+    second: NormalEnemy_Toilet_64_100
+  - first:
+      213: 6555531712684360496
+    second: NormalEnemy_Toilet_64_101
+  - first:
+      213: -711618460412540892
+    second: NormalEnemy_Toilet_64_102
+  - first:
+      213: -1767983842673432243
+    second: NormalEnemy_Toilet_64_103
+  - first:
+      213: -4374728471195047370
+    second: NormalEnemy_Toilet_64_104
+  - first:
+      213: -8722145451675248315
+    second: NormalEnemy_Toilet_64_105
+  - first:
+      213: 5954025340134522509
+    second: NormalEnemy_Toilet_64_106
+  - first:
+      213: -4084936301667042616
+    second: NormalEnemy_Toilet_64_107
+  - first:
+      213: 4893102228539941804
+    second: NormalEnemy_Toilet_64_108
+  - first:
+      213: -6649634969697777859
+    second: NormalEnemy_Toilet_64_109
+  - first:
+      213: 6219505103917353803
+    second: NormalEnemy_Toilet_64_110
+  - first:
+      213: -3094514642130115124
+    second: NormalEnemy_Toilet_64_111
+  - first:
+      213: 751736216371694535
+    second: NormalEnemy_Toilet_64_112
+  - first:
+      213: -7483042551385487185
+    second: NormalEnemy_Toilet_64_113
+  - first:
+      213: -3179774920502108609
+    second: NormalEnemy_Toilet_64_114
+  - first:
+      213: 7625565406539635182
+    second: NormalEnemy_Toilet_64_115
+  - first:
+      213: 6484197928520411514
+    second: NormalEnemy_Toilet_64_116
+  - first:
+      213: 3045534450334391407
+    second: NormalEnemy_Toilet_64_117
+  - first:
+      213: -2000898758611343127
+    second: NormalEnemy_Toilet_64_118
+  - first:
+      213: -9023960229924110947
+    second: NormalEnemy_Toilet_64_119
+  - first:
+      213: 2982487765258221391
+    second: NormalEnemy_Toilet_64_120
+  - first:
+      213: 6140692508777114133
+    second: NormalEnemy_Toilet_64_121
+  - first:
+      213: 6868079096980257824
+    second: NormalEnemy_Toilet_64_122
+  - first:
+      213: 3294636370643243195
+    second: NormalEnemy_Toilet_64_123
+  - first:
+      213: -2568201707755538240
+    second: NormalEnemy_Toilet_64_124
+  - first:
+      213: 8288167819587998118
+    second: NormalEnemy_Toilet_64_125
+  - first:
+      213: 3042758422194320399
+    second: NormalEnemy_Toilet_64_126
+  - first:
+      213: 4215047422735659514
+    second: NormalEnemy_Toilet_64_127
+  - first:
+      213: 5260900667313820603
+    second: NormalEnemy_Toilet_64_128
+  - first:
+      213: 6092666145598889682
+    second: NormalEnemy_Toilet_64_129
+  - first:
+      213: 7144719100046628303
+    second: NormalEnemy_Toilet_64_130
+  - first:
+      213: 1620030495824395769
+    second: NormalEnemy_Toilet_64_131
+  - first:
+      213: 8510313470109197368
+    second: NormalEnemy_Toilet_64_132
+  - first:
+      213: 3848066503591803198
+    second: NormalEnemy_Toilet_64_133
+  - first:
+      213: 6515413063173826901
+    second: NormalEnemy_Toilet_64_134
+  - first:
+      213: -943521838496242828
+    second: NormalEnemy_Toilet_64_135
+  - first:
+      213: 5405518348313771426
+    second: NormalEnemy_Toilet_64_136
+  - first:
+      213: 6957196956044481654
+    second: NormalEnemy_Toilet_64_137
+  - first:
+      213: -3259896309336681013
+    second: NormalEnemy_Toilet_64_138
+  - first:
+      213: -6410592771786041543
+    second: NormalEnemy_Toilet_64_139
+  - first:
+      213: 8998502246878023734
+    second: NormalEnemy_Toilet_64_140
+  - first:
+      213: 1255334571309511474
+    second: NormalEnemy_Toilet_64_141
+  - first:
+      213: -1930473860190182037
+    second: NormalEnemy_Toilet_64_142
+  - first:
+      213: -5616090402577659907
+    second: NormalEnemy_Toilet_64_143
+  - first:
+      213: -8538339205248874908
+    second: NormalEnemy_Toilet_64_144
+  - first:
+      213: 4476267890789121415
+    second: NormalEnemy_Toilet_64_145
+  - first:
+      213: 63869211017808337
+    second: NormalEnemy_Toilet_64_146
+  - first:
+      213: -673556689567158893
+    second: NormalEnemy_Toilet_64_147
+  - first:
+      213: -953637983220318496
+    second: NormalEnemy_Toilet_64_148
+  - first:
+      213: 8742417395505091377
+    second: NormalEnemy_Toilet_64_149
+  - first:
+      213: 2008891067788484556
+    second: NormalEnemy_Toilet_64_150
+  - first:
+      213: -514584525953983167
+    second: NormalEnemy_Toilet_64_151
+  - first:
+      213: 2049622122186424280
+    second: NormalEnemy_Toilet_64_152
+  - first:
+      213: 8900567406637879704
+    second: NormalEnemy_Toilet_64_153
+  - first:
+      213: -5518507500691408028
+    second: NormalEnemy_Toilet_64_154
+  - first:
+      213: -533138597567345405
+    second: NormalEnemy_Toilet_64_155
+  - first:
+      213: 5441563629806222423
+    second: NormalEnemy_Toilet_64_156
+  - first:
+      213: 3421103586836349751
+    second: NormalEnemy_Toilet_64_157
+  - first:
+      213: 1221937847245632059
+    second: NormalEnemy_Toilet_64_158
+  - first:
+      213: 1248341034180350111
+    second: NormalEnemy_Toilet_64_159
+  - first:
+      213: -2494016434823792115
+    second: NormalEnemy_Toilet_64_160
+  - first:
+      213: -7870492956342469006
+    second: NormalEnemy_Toilet_64_161
+  - first:
+      213: 2326589784307298750
+    second: NormalEnemy_Toilet_64_162
+  - first:
+      213: 4711053837313283328
+    second: NormalEnemy_Toilet_64_163
+  - first:
+      213: -7747484376814091506
+    second: NormalEnemy_Toilet_64_164
+  - first:
+      213: -7606561994621025617
+    second: NormalEnemy_Toilet_64_165
+  - first:
+      213: 3722035683398597035
+    second: NormalEnemy_Toilet_64_166
+  - first:
+      213: 7912196907474037377
+    second: NormalEnemy_Toilet_64_167
+  - first:
+      213: 6166956374853568550
+    second: NormalEnemy_Toilet_64_168
+  - first:
+      213: -8566008394649215916
+    second: NormalEnemy_Toilet_64_169
+  - first:
+      213: 5307999775724248162
+    second: NormalEnemy_Toilet_64_170
+  - first:
+      213: -5142841788515361717
+    second: NormalEnemy_Toilet_64_171
+  - first:
+      213: 4880883695294962585
+    second: NormalEnemy_Toilet_64_172
+  - first:
+      213: -5136157908747196803
+    second: NormalEnemy_Toilet_64_173
+  - first:
+      213: 7338224544255026831
+    second: NormalEnemy_Toilet_64_174
+  - first:
+      213: -6441372803868876746
+    second: NormalEnemy_Toilet_64_175
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 895
+        width: 97
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac89573f9418b9f0800000000000000
+      internalID: -452589088489763680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_1
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 897
+        width: 107
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65945e2c9a18251e0800000000000000
+      internalID: -2210561900966229674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_2
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 839
+        width: 254
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb34def4a9df85d00800000000000000
+      internalID: 961797359651341247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_3
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 896
+        width: 100
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16621272f9a899de0800000000000000
+      internalID: -1325876199122983327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_4
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 895
+        width: 106
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 641c83be0211d5fb0800000000000000
+      internalID: -4657547606548233914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_5
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 901
+        width: 109
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 886d70450aa747730800000000000000
+      internalID: 3995953598407628424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_6
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 1001
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a6cdd6a4f7347540800000000000000
+      internalID: 5004686609826563745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_7
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 913
+        width: 116
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e513cc969e4b76e0800000000000000
+      internalID: -1838789614068623902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_8
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 899
+        width: 122
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7c1082808451d110800000000000000
+      internalID: 1283900279699283071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_9
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 954
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcbea478d651864b0800000000000000
+      internalID: -5447080189139162161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_10
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 1019
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf49d17c5433490e0800000000000000
+      internalID: -2264128337874152196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_11
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 911
+        width: 56
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 880836df405f85480800000000000000
+      internalID: -8910102460972695416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_12
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 893
+        width: 254
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fefa51fecf3b5a420800000000000000
+      internalID: 2640714655446970351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_13
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 893
+        width: 127
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a95fcacaf34593ad0800000000000000
+      internalID: -2722051867312065126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_14
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 893
+        width: 130
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25d0bdeeb40389d70800000000000000
+      internalID: 9050036553889025362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_15
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 893
+        width: 117
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8938dabe1d95146e0800000000000000
+      internalID: -1855102813362879592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_16
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 989
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ff4ffbc8bf98280800000000000000
+      internalID: -9040418195035062433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_17
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 995
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e5bed3e282bd2eb0800000000000000
+      internalID: -4742938557312748058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_18
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 987
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3371fba07b90adf30800000000000000
+      internalID: 4601000651076343603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_19
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 893
+        width: 87
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5840f4f84c00d510800000000000000
+      internalID: 1571769777438869595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_20
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 895
+        width: 92
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec4d40da3e28c0b10800000000000000
+      internalID: 1949076653116544206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_21
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 973
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e18590cd4f031a30800000000000000
+      internalID: 4184705305375244777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_22
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 959
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c13a92aabf7ece800800000000000000
+      internalID: 643143914884801308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_23
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 933
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a11465074e35e9cf0800000000000000
+      internalID: -243665089229078246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_24
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 929
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac8472585d5d18860800000000000000
+      internalID: 7530535164978874570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_25
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 923
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b50ff1570ea7ea0800000000000000
+      internalID: -5874135970299749505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 794
+        width: 86
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c99f353b2ff8baf0800000000000000
+      internalID: -380273607470769728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_27
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 833
+        width: 76
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edc5783f17cc70e30800000000000000
+      internalID: 4469765944977611998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_28
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 881
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95172c730bf8bfc20800000000000000
+      internalID: 3241342343835709785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_29
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 828
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03ee757eaf16440c0800000000000000
+      internalID: -4592437989760045520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_30
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 674
+        width: 186
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ea3c8fd99316690800000000000000
+      internalID: -7610738544633205130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_31
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 767
+        width: 112
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1645332ff59f2d670800000000000000
+      internalID: 8562180032065393761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_32
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 773
+        width: 242
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0cc3827b591353b0800000000000000
+      internalID: -5525044437299508211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_33
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 874
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e383ef2d23459fd30800000000000000
+      internalID: 4465693082779531326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_34
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 767
+        width: 118
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8a4d677420025bf0800000000000000
+      internalID: -337206865476892018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_35
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 767
+        width: 114
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd87ff5038bc0f280800000000000000
+      internalID: -9011479090766579492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_36
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 851
+        width: 32
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386dc0460d7201d30800000000000000
+      internalID: 4400060611926218371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_37
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 767
+        width: 116
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32c585daa696dd300800000000000000
+      internalID: 278494658862537763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_38
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 743
+        width: 111
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 973f95b5b78f08e60800000000000000
+      internalID: 7962637349888324473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_39
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 773
+        width: 113
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dbf238c14870d9e0800000000000000
+      internalID: -1598645643789534248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_40
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 782
+        width: 102
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34fe33afdf16c5820800000000000000
+      internalID: 2908307202826825539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_41
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 809
+        width: 61
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de366d11e0c482460800000000000000
+      internalID: 7217102026173735917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_42
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 801
+        width: 80
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35643dd3f0c90d350800000000000000
+      internalID: 6039498689579533907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_43
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 827
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6587638c81511adb0800000000000000
+      internalID: -4782518133108344746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_44
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 829
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cfd921b6b8d71f30800000000000000
+      internalID: 4546340628021764036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_45
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 797
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3af9e3628b79f5e0800000000000000
+      internalID: -1875331969870857666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_46
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 821
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 391b420cf5a1f8ef0800000000000000
+      internalID: -103835267858386541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_47
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 779
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eebbccaf76dc70a90800000000000000
+      internalID: -7347678420558627858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_48
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 813
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46acfef3ce2864590800000000000000
+      internalID: -7690315362491970972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_49
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 827
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd0cee8b6faaf4d0800000000000000
+      internalID: -3099972516996969002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_50
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 821
+        width: 50
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f20a4e6ec5f4180800000000000000
+      internalID: -9128975772908769423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_51
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 813
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a127bae8bac771a0800000000000000
+      internalID: -6811753015813922398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_52
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 785
+        width: 62
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39fd62db5bb1f62a0800000000000000
+      internalID: -6742139649773871213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_53
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 781
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c5f01d5332de3770800000000000000
+      internalID: 8592536257116042692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_54
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 803
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7cf51da4be363590800000000000000
+      internalID: -7694893967596979077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_55
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 785
+        width: 56
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b9a4af6961e52000800000000000000
+      internalID: 10662417099172272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_56
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 795
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 797c179eb5fb01cb0800000000000000
+      internalID: -4895202393472252009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_57
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 809
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b9e7f14323e48e00800000000000000
+      internalID: 1046210754026924464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 767
+        width: 46
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb88cbdbaec7dd90800000000000000
+      internalID: -7072957452239991888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_59
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 769
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f75d95c3aeec99910800000000000000
+      internalID: 1844733027815118207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_60
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 785
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45a09045a08bee8b0800000000000000
+      internalID: -5120953371774612908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_61
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 779
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4e7377db9aa21fe0800000000000000
+      internalID: -1219724962752659893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_62
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 797
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ceaf2aa521ffc580800000000000000
+      internalID: -8804553602414694711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_63
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 771
+        width: 68
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6098c50a4d560a30800000000000000
+      internalID: 4181131876566077550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_64
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 772
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab03300a7bf548e0800000000000000
+      internalID: -1709683982109307997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_65
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 785
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 127da6017072f2b50800000000000000
+      internalID: 6570513292650534689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_66
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 638
+        width: 109
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 449ca516004a938c0800000000000000
+      internalID: -4019000870911162044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_67
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 612
+        width: 115
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 166262df0d0bc22e0800000000000000
+      internalID: -2149148510515747231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_68
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 749
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd6af26c77b278e50800000000000000
+      internalID: 6811460754847278811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_69
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 755
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc7f426ed8b43cca0800000000000000
+      internalID: -5997867205903714353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_70
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 581
+        width: 302
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e79c8574bd5b58f0800000000000000
+      internalID: -550743499775109143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_71
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 719
+        width: 136
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6f3dc4bc4bfabc70800000000000000
+      internalID: 8987772313240682351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_72
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 749
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08d9ac180061cb2a0800000000000000
+      internalID: -6720472352510272128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_73
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 719
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b5300a89d4dee520800000000000000
+      internalID: 2733356054648731060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_74
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 683
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f4551ae074455980800000000000000
+      internalID: -8550853065738726160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_75
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 725
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b08dec78e075650800000000000000
+      internalID: 6221457386689268554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_76
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 638
+        width: 125
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 672c133b41cc60940800000000000000
+      internalID: 5262117603906798198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_77
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 638
+        width: 104
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66eb1156bda91b380800000000000000
+      internalID: -8957207916779028890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_78
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 638
+        width: 132
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acb7d9d097a4e3920800000000000000
+      internalID: 2971894687891028938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_79
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 637
+        width: 126
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2239db480be8d3240800000000000000
+      internalID: 4773128068874998562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_80
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 644
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d6a73930b51b110800000000000000
+      internalID: 1274900240439864595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_81
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 641
+        width: 123
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b79dfb3794139b90800000000000000
+      internalID: -7236417536475162696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_82
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 576
+        width: 209
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09a162162068022e0800000000000000
+      internalID: -2152573277105153392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_83
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 641
+        width: 128
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd1de8af306098cf0800000000000000
+      internalID: -249661690184019491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_84
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 639
+        width: 125
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db059b2e8ff83f1b0800000000000000
+      internalID: -5623993210537160515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_85
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 677
+        width: 68
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 463667296616212f0800000000000000
+      internalID: -1003632673778408604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_86
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 728
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cebe6e23f97a87fb0800000000000000
+      internalID: -4649782313064403988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_87
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 719
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbfda2b560b7e2610800000000000000
+      internalID: 1598350184992661439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_88
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 671
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2812e219c8fee1310800000000000000
+      internalID: 1377801923032129922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_89
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 605
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e85b9b30549ea4510800000000000000
+      internalID: 1534295105697592718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_90
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 583
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f864962b80777c570800000000000000
+      internalID: 8486882902039676559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_91
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 593
+        width: 86
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc26d67cd56eee10800000000000000
+      internalID: 2228830863155932362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_92
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 542
+        width: 127
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b18bbe360d35d0af0800000000000000
+      internalID: -428594235035633637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_93
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 635
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e1b5183a1a213f10800000000000000
+      internalID: 2247623981133050344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_94
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 615
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fc40d65b656df730800000000000000
+      internalID: 4034492352886230256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_95
+      rect:
+        serializedVersion: 2
+        x: 1913
+        y: 647
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8cb0c88295b5ffc0800000000000000
+      internalID: -3461661097600172917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_96
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 635
+        width: 8
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a413a1b476988e90800000000000000
+      internalID: -7023198190943660895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_97
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 516
+        width: 115
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29b875376bd2c5ce0800000000000000
+      internalID: -1415205921258763374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_98
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 526
+        width: 87
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e3d9cbc893a6940800000000000000
+      internalID: 5290103988922695210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_99
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 601
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9946f4743fbfa4480800000000000000
+      internalID: -8914035490134465383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_100
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 509
+        width: 127
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35c13491b6f28fc60800000000000000
+      internalID: 7852078087352294483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_101
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 509
+        width: 124
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0330c582c5de9fa50800000000000000
+      internalID: 6555531712684360496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_102
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 509
+        width: 111
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4280083d7c2df16f0800000000000000
+      internalID: -711618460412540892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_103
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 509
+        width: 125
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d49e1d0ff0cd677e0800000000000000
+      internalID: -1767983842673432243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_104
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 609
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63aa1ad32a7d943c0800000000000000
+      internalID: -4374728471195047370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_105
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 629
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5499b917ce6b4f680800000000000000
+      internalID: -8722145451675248315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_106
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 575
+        width: 78
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e74664082f0a250800000000000000
+      internalID: 5954025340134522509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_107
+      rect:
+        serializedVersion: 2
+        x: 1961
+        y: 635
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cab90993146f47c0800000000000000
+      internalID: -4084936301667042616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_108
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 617
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca3abc55d8ac7e340800000000000000
+      internalID: 4893102228539941804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_109
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 611
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d370621f930c7b3a0800000000000000
+      internalID: -6649634969697777859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_110
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 579
+        width: 67
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4b09bd80fe105650800000000000000
+      internalID: 6219505103917353803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_111
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 511
+        width: 101
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc5e69314531e05d0800000000000000
+      internalID: -3094514642130115124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_112
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 526
+        width: 88
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb81ad1b14be6a00800000000000000
+      internalID: 751736216371694535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_113
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 584
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa809854274e62890800000000000000
+      internalID: -7483042551385487185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_114
+      rect:
+        serializedVersion: 2
+        x: 1889
+        y: 599
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e96c59e8b2fd3d0800000000000000
+      internalID: -3179774920502108609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_115
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 562
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee95d44d55373d960800000000000000
+      internalID: 7625565406539635182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_116
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 571
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7968c649af7cf950800000000000000
+      internalID: 6484197928520411514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_117
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 566
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c55675279e34a20800000000000000
+      internalID: 3045534450334391407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_118
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 574
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e863752e216b34e0800000000000000
+      internalID: -2000898758611343127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_119
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 527
+        width: 42
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9dfe1c5bf374c280800000000000000
+      internalID: -9023960229924110947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_120
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 587
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f473a2312dce36920800000000000000
+      internalID: 2982487765258221391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_121
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 575
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51aef8c4d4f183550800000000000000
+      internalID: 6140692508777114133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_122
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 581
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c3bc0dc81505f50800000000000000
+      internalID: 6868079096980257824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_123
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 583
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb0d548c256e8bd20800000000000000
+      internalID: 3294636370643243195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_124
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 581
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c8fda9572aeb5cd0800000000000000
+      internalID: -2568201707755538240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_125
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 581
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a1dd5528bc750370800000000000000
+      internalID: 8288167819587998118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_126
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 515
+        width: 59
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f04783ce9ac0a3a20800000000000000
+      internalID: 3042758422194320399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_127
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 503
+        width: 53
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af1b5977c4bde7a30800000000000000
+      internalID: 4215047422735659514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_128
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 491
+        width: 110
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb31bd19849720940800000000000000
+      internalID: 5260900667313820603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_129
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 531
+        width: 70
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2de587f349f7d8450800000000000000
+      internalID: 6092666145598889682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_130
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 491
+        width: 80
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc55a3aca24272360800000000000000
+      internalID: 7144719100046628303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_131
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 558
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fdb9e417218b7610800000000000000
+      internalID: 1620030495824395769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_132
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 563
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 834a411f205ba1670800000000000000
+      internalID: 8510313470109197368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_133
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 539
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e393baad814176530800000000000000
+      internalID: 3848066503591803198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_134
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 527
+        width: 116
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5596a6b29a56b6a50800000000000000
+      internalID: 6515413063173826901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_135
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 539
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 473ab9a03efe7e2f0800000000000000
+      internalID: -943521838496242828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_136
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 563
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ad39125c42440b40800000000000000
+      internalID: 5405518348313771426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_137
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 560
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 674d57d45cdec8060800000000000000
+      internalID: 6957196956044481654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_138
+      rect:
+        serializedVersion: 2
+        x: 1821
+        y: 539
+        width: 52
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc5516d049582c2d0800000000000000
+      internalID: -3259896309336681013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_139
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 551
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 937910eb6dff807a0800000000000000
+      internalID: -6410592771786041543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_140
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 557
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63018bf0e1a11ec70800000000000000
+      internalID: 8998502246878023734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_141
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 529
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 233bb2d3428db6110800000000000000
+      internalID: 1255334571309511474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_142
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 515
+        width: 68
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b65ef2390449535e0800000000000000
+      internalID: -1930473860190182037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_143
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 551
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df7c0efb883af02b0800000000000000
+      internalID: -5616090402577659907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_144
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 539
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 466895b1bb9b18980800000000000000
+      internalID: -8538339205248874908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_145
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 551
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78df8fd2ee5ee1e30800000000000000
+      internalID: 4476267890789121415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_146
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 545
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d90dc285b8e2e000800000000000000
+      internalID: 63869211017808337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_147
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 509
+        width: 72
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39de24e62cb07a6f0800000000000000
+      internalID: -673556689567158893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_148
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 503
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ee35dd8e4ff3c2f0800000000000000
+      internalID: -953637983220318496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_149
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 533
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 133d6494d4e435970800000000000000
+      internalID: 8742417395505091377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_150
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 521
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccfdcf758c301eb10800000000000000
+      internalID: 2008891067788484556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_151
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 509
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d999b9914dbd8f0800000000000000
+      internalID: -514584525953983167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_152
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 515
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8df34b4f578b17c10800000000000000
+      internalID: 2049622122186424280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_153
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 521
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 891121c26ea258b70800000000000000
+      internalID: 8900567406637879704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_154
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 515
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46bb5fa9aa25a63b0800000000000000
+      internalID: -5518507500691408028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_155
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 521
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30dc2fb2549e998f0800000000000000
+      internalID: -533138597567345405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_156
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 491
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75cf8496a41548b40800000000000000
+      internalID: 5441563629806222423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_157
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 503
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 733023126933a7f20800000000000000
+      internalID: 3421103586836349751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_158
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 497
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b327eaa7ff135f010800000000000000
+      internalID: 1221937847245632059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_159
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 503
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f901ddc7e8ff25110800000000000000
+      internalID: 1248341034180350111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_160
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 497
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0a77523449736dd0800000000000000
+      internalID: -2494016434823792115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_161
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 485
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27e3ef91b5466c290800000000000000
+      internalID: -7870492956342469006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_162
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 371
+        width: 152
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb170bff415b94020800000000000000
+      internalID: 2326589784307298750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_163
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 383
+        width: 129
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0059cca3186016140800000000000000
+      internalID: 4711053837313283328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_164
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 383
+        width: 124
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e038b19d1086b7490800000000000000
+      internalID: -7747484376814091506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_165
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 386
+        width: 124
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa280acca20107690800000000000000
+      internalID: -7606561994621025617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_166
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 383
+        width: 128
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba93d4edbb357a330800000000000000
+      internalID: 3722035683398597035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_167
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 391
+        width: 241
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a2feeaa25cdcd60800000000000000
+      internalID: 7912196907474037377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_168
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 485
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6284a74262e659550800000000000000
+      internalID: 6166956374853568550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_169
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 467
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c5bedefbc6f1980800000000000000
+      internalID: -8566008394649215916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_170
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 455
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c95eb4cadc9a940800000000000000
+      internalID: 5307999775724248162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_171
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 371
+        width: 211
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4cd18b24a4f0a8b0800000000000000
+      internalID: -5142841788515361717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_172
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 383
+        width: 124
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99b5d006cd16cb340800000000000000
+      internalID: 4880883695294962585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_173
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 396
+        width: 112
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d766fc23893b8b8b0800000000000000
+      internalID: -5136157908747196803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_174
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 413
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f86af5ae75c96d560800000000000000
+      internalID: 7338224544255026831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEnemy_Toilet_64_175
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 398
+        width: 62
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 630a88f0095ab96a0800000000000000
+      internalID: -6441372803868876746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

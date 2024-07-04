@@ -1,0 +1,474 @@
+fileFormatVersion: 2
+guid: 625a5dff0feba2541be3670ecdeb27b7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2801045048518248788
+    second: Meteor_Impact_0
+  - first:
+      213: 5022152783871811187
+    second: Meteor_Impact_1
+  - first:
+      213: 2335329968047725747
+    second: Meteor_Impact_2
+  - first:
+      213: -3773411848107984644
+    second: Meteor_Impact_3
+  - first:
+      213: 6429135651754711432
+    second: Meteor_Impact_4
+  - first:
+      213: -200306384566483412
+    second: Meteor_Impact_5
+  - first:
+      213: 4549982078457274875
+    second: Meteor_Impact_6
+  - first:
+      213: 5899744971860204602
+    second: Meteor_Impact_7
+  - first:
+      213: 3155985400219891796
+    second: Meteor_Impact_8
+  - first:
+      213: -3513729735875976253
+    second: Meteor_Impact_9
+  - first:
+      213: 8649780908332966159
+    second: Meteor_Impact_10
+  - first:
+      213: -8800303861953586413
+    second: Meteor_Impact_11
+  - first:
+      213: 8064207248393432402
+    second: Meteor_Impact_12
+  - first:
+      213: -324418272202145461
+    second: Meteor_Impact_13
+  - first:
+      213: 9035781403442896830
+    second: Meteor_Impact_14
+  - first:
+      213: -825616237822673018
+    second: Meteor_Impact_15
+  - first:
+      213: -7405883894654609333
+    second: Meteor_Impact_16
+  - first:
+      213: 6729549083603074195
+    second: Meteor_Impact_17
+  - first:
+      213: 2251865311189216722
+    second: Meteor_Impact_18
+  - first:
+      213: 1814261699025565753
+    second: Meteor_Impact_19
+  - first:
+      213: 8830534680216349351
+    second: Meteor_Impact_20
+  - first:
+      213: -5453619830300098233
+    second: Meteor_Impact_21
+  - first:
+      213: 4120848231293390722
+    second: Meteor_Impact_22
+  - first:
+      213: 7240965155497325002
+    second: Meteor_Impact_23
+  - first:
+      213: 2895130207434042967
+    second: Meteor_Impact_24
+  - first:
+      213: -2398950495556732944
+    second: Meteor_Impact_25
+  - first:
+      213: -6851708090805436708
+    second: Meteor_Impact_26
+  - first:
+      213: 501334942597687857
+    second: Meteor_Impact_27
+  - first:
+      213: -7750769903724389551
+    second: Meteor_Impact_28
+  - first:
+      213: -1212668426919004154
+    second: Meteor_Impact_29
+  - first:
+      213: -4963197258065280852
+    second: Meteor_Impact_30
+  - first:
+      213: -7411436849447638605
+    second: Meteor_Impact_31
+  - first:
+      213: -4255944458771297391
+    second: Meteor_Impact_32
+  - first:
+      213: -9037208276307358807
+    second: Meteor_Impact_33
+  - first:
+      213: 7641928972367004803
+    second: Meteor_Impact_34
+  - first:
+      213: -7167496344672042976
+    second: Meteor_Impact_35
+  - first:
+      213: 6528740638148992541
+    second: Meteor_Impact_36
+  - first:
+      213: 6803175999395624419
+    second: Meteor_Impact_37
+  - first:
+      213: 518649529434490313
+    second: Meteor_Impact_38
+  - first:
+      213: 7498812210961165737
+    second: Meteor_Impact_39
+  - first:
+      213: 4800924066648278666
+    second: Meteor_Impact_40
+  - first:
+      213: -2783516209884819963
+    second: Meteor_Impact_41
+  - first:
+      213: -5938248351893228997
+    second: Meteor_Impact_42
+  - first:
+      213: 5447111786307807420
+    second: Meteor_Impact_43
+  - first:
+      213: -5453683210307058849
+    second: Meteor_Impact_44
+  - first:
+      213: -2074722310487412568
+    second: Meteor_Impact_45
+  - first:
+      213: -8615948429698562777
+    second: Meteor_Impact_46
+  - first:
+      213: 7490603015530279199
+    second: Meteor_Impact_47
+  - first:
+      213: -6588865464683001985
+    second: Meteor_Impact_48
+  - first:
+      213: -6238085655639233499
+    second: Meteor_Impact_49
+  - first:
+      213: 5872175074607507513
+    second: Meteor_Impact_50
+  - first:
+      213: 5452645927998847684
+    second: Meteor_Impact_51
+  - first:
+      213: 5134697647099363836
+    second: Meteor_Impact_52
+  - first:
+      213: 8425402555679435515
+    second: Meteor_Impact_53
+  - first:
+      213: -7558278294326079149
+    second: Meteor_Impact_54
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Meteor_Impact_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 275
+        width: 208
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca6f3337e50b029d0800000000000000
+      internalID: -2801045048518248788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor_Impact_1
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 271
+        width: 208
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37e1b62395542b540800000000000000
+      internalID: 5022152783871811187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor_Impact_2
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 263
+        width: 208
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bc1fca9b32c86020800000000000000
+      internalID: 2335329968047725747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor_Impact_3
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 24
+        width: 208
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf8f542aae522abc0800000000000000
+      internalID: -3773411848107984644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor_Impact_4
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 21
+        width: 208
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88993afefc0e83950800000000000000
+      internalID: 6429135651754711432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor_Impact_5
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 22
+        width: 208
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c260cad876e583df0800000000000000
+      internalID: -200306384566483412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Meteor_Impact_0: -2801045048518248788
+      Meteor_Impact_1: 5022152783871811187
+      Meteor_Impact_10: 8649780908332966159
+      Meteor_Impact_11: -8800303861953586413
+      Meteor_Impact_12: 8064207248393432402
+      Meteor_Impact_13: -324418272202145461
+      Meteor_Impact_14: 9035781403442896830
+      Meteor_Impact_15: -825616237822673018
+      Meteor_Impact_16: -7405883894654609333
+      Meteor_Impact_17: 6729549083603074195
+      Meteor_Impact_18: 2251865311189216722
+      Meteor_Impact_19: 1814261699025565753
+      Meteor_Impact_2: 2335329968047725747
+      Meteor_Impact_20: 8830534680216349351
+      Meteor_Impact_21: -5453619830300098233
+      Meteor_Impact_22: 4120848231293390722
+      Meteor_Impact_23: 7240965155497325002
+      Meteor_Impact_24: 2895130207434042967
+      Meteor_Impact_25: -2398950495556732944
+      Meteor_Impact_26: -6851708090805436708
+      Meteor_Impact_27: 501334942597687857
+      Meteor_Impact_28: -7750769903724389551
+      Meteor_Impact_29: -1212668426919004154
+      Meteor_Impact_3: -3773411848107984644
+      Meteor_Impact_30: -4963197258065280852
+      Meteor_Impact_31: -7411436849447638605
+      Meteor_Impact_32: -4255944458771297391
+      Meteor_Impact_33: -9037208276307358807
+      Meteor_Impact_34: 7641928972367004803
+      Meteor_Impact_35: -7167496344672042976
+      Meteor_Impact_36: 6528740638148992541
+      Meteor_Impact_37: 6803175999395624419
+      Meteor_Impact_38: 518649529434490313
+      Meteor_Impact_39: 7498812210961165737
+      Meteor_Impact_4: 6429135651754711432
+      Meteor_Impact_40: 4800924066648278666
+      Meteor_Impact_41: -2783516209884819963
+      Meteor_Impact_42: -5938248351893228997
+      Meteor_Impact_43: 5447111786307807420
+      Meteor_Impact_44: -5453683210307058849
+      Meteor_Impact_45: -2074722310487412568
+      Meteor_Impact_46: -8615948429698562777
+      Meteor_Impact_47: 7490603015530279199
+      Meteor_Impact_48: -6588865464683001985
+      Meteor_Impact_49: -6238085655639233499
+      Meteor_Impact_5: -200306384566483412
+      Meteor_Impact_50: 5872175074607507513
+      Meteor_Impact_51: 5452645927998847684
+      Meteor_Impact_52: 5134697647099363836
+      Meteor_Impact_53: 8425402555679435515
+      Meteor_Impact_54: -7558278294326079149
+      Meteor_Impact_55: -583146286
+      Meteor_Impact_6: 4549982078457274875
+      Meteor_Impact_7: 5899744971860204602
+      Meteor_Impact_8: 3155985400219891796
+      Meteor_Impact_9: -3513729735875976253
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
